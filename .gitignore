@@ -40,4 +40,5 @@ desktop.ini
 # Lab Temp Files
 midterm_solution.py
 history.txt
+*.pdf
 temp_*/
