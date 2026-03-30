@@ -2,7 +2,7 @@ import os
 import re
 
 # ============================================================
-#      PB GOD-MODE MAKER (V11.0) - THE ABSOLUTE UNIVERSAL ASSEMBLER
+#      TYPE-A MINI (V11.5) - THE ABSOLUTE UNIVERSAL ASSEMBLER
 # ============================================================
 # Consolidated 7-Week Intelligence: Labs 1-7 (Week 1 to Week 7).
 # Absolute Semantic Scorer + Universal Formula Library.
